@@ -1,0 +1,17 @@
+{
+  "name": "Fundraiser",
+  "description": "",
+  "license": "MIT",
+  "version": "1.0.0",
+  "bin": "",
+  "main": "",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
